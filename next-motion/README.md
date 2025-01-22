@@ -15,7 +15,7 @@ In this video tutorial, we have developed a UI design with the "Thinking in Reac
 
 Here is the video for you to go through and learn:
 
-[![next-motion](./banner.png)](https://youtu.be/T90QUHosXIU "Video")
+[![next-motion](./next-motion.png)](https://youtu.be/T90QUHosXIU "Video")
 
 ## How to Run
 - Install dependencies using `npm install`
